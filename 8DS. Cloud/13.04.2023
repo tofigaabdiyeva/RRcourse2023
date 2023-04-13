@@ -1,0 +1,10 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use “gcloud config set project [PROJECT_ID]”
+tofigaabdiyeva@cloudshell:~$ uname -a
+Linux cs-535365985287-default 5.15.89+ #1 SMP Sat Mar 25 09:11:42 UTC 2023 x86_64 GNU/Linux
+tofigaabdiyeva@cloudshell:~$ touch test.txt
+tofigaabdiyeva@cloudshell:~$ ls -l
+total 4
+-rw-r--r-- 1 tofigaabdiyeva tofigaabdiyeva 913 Apr 13 17:09 README-cloudshell.txt
+-rw-r--r-- 1 tofigaabdiyeva tofigaabdiyeva   0 Apr 13 17:35 test.txt
+tofigaabdiyeva@cloudshell:~$
