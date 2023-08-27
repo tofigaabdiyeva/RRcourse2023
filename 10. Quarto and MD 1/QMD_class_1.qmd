@@ -1,10 +1,23 @@
 ---
 title: "Quarto"
+subtitle: "YAML"
 author: "Wojciech Hardy"
-date: "4/11/2023"
-format: html
+date: "27/08/2023"
+format:
+  html: 
+    toc: true
+    toc-depth: 2
+    toc-title: contents
+    toc-location: left
+    smooth-scroll: true
+number-sections: true
+number-depth: 2
+title-block-banner: true
+code-fold: true
+theme: quartz
 execute:
   echo: fenced
+  warning: false
 ---
 
 ```{r}
